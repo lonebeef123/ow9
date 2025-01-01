@@ -1,3 +1,3 @@
 # ow9
 This Is My First Git Repository 
-Author - cat hj
+Author - cat
